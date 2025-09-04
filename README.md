@@ -2,4 +2,4 @@
 
 BookBot is my first python project!
 
-Get books from ["https://www.gutenberg.org]("Project gutenberg")
+Get books from [Project Gutenberg](https://www.gutenberg.org)
